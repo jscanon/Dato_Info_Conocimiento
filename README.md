@@ -15,4 +15,4 @@ Algoritmo desarrollado con el fin de expresar la diferencia entre el significado
 
 - Descargue todos los archivos del repositorio.
 - Abra el archivo "Interfaz.m"
-- Ejecute lo en Matlab
+- Ejecute en el command line el comando "Interfaz".
