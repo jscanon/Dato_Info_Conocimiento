@@ -16,3 +16,7 @@ Algoritmo desarrollado con el fin de expresar la diferencia entre el significado
 - Descargue todos los archivos del repositorio.
 - Abra el archivo "Interfaz.m"
 - Ejecute en el command line el comando "Interfaz".
+
+# Observaciones
+
+- Las imagenes que se encuentran en el repositorio le permitiran hacer pruebas sobre el algoritmo presentado.
